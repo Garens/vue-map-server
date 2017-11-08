@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "E:dev_2017demovueE:dev_2017demovuevue-map-server",
+    "script": "production.js",
+    "cwd": "E:\dev_2017\demo\vue\vue-map-server",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
